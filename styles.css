@@ -27,10 +27,16 @@ h2 {
     text-align: center;
 }
 
-.mybox {
+.box {
+    align-self: center;
+    align-content: center;
+    align-items: center;
     background-color: bisque;
     border-radius: 20%;
     box-shadow: none;
     border-color: burlywood;
     border: 2px;
+    margin: 20px;
+    padding: 20px;
+
 }
