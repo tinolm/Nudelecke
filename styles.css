@@ -28,9 +28,12 @@ h2 {
 }
 
 .box {
-    background-color: bisque;
-    color: white;
+    background-color: rgba(168, 117, 54, 0.507);
+    color: black;
     border: 2px solid black;
     margin: 20px;
     padding: 20px;
+    border-width: 2px;
+    border-radius: 10px;
+    
   } 
