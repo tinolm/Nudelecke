@@ -28,14 +28,9 @@ h2 {
 }
 
 .box {
-    align-self: center;
-    align-content: center;
-    align-items: center;
     background-color: bisque;
-    /*border-radius: 5%;*/
-    box-shadow: none;
-    border: 2px;
+    color: white;
+    border: 2px solid black;
     margin: 20px;
     padding: 20px;
-
-}
+  } 
