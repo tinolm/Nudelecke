@@ -32,9 +32,8 @@ h2 {
     align-content: center;
     align-items: center;
     background-color: bisque;
-    border-radius: 5%;
+    /*border-radius: 5%;*/
     box-shadow: none;
-    border-color: burlywood;
     border: 2px;
     margin: 20px;
     padding: 20px;
