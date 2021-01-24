@@ -4,8 +4,14 @@ p {
 
 }
 
+
+h1 {
+    font-family: cursive;
+}
+
 h2 {
     font-family: sans-serif;
+    text-align: center;
 }
 
 .mybox {
