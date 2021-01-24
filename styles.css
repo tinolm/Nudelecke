@@ -1,12 +1,24 @@
 p {
     font-family: sans-serif;
-    color: darkblue;
+    align-self: center;
+    align-content: center;
+    align-items: center;
 
 }
 
 
 h1 {
     font-family: cursive;
+    text-align: center;
+    align-self: center;
+}
+
+a {
+    font-family: sans-serif;
+    color: green;
+    text-align: center;
+    align-self: center;
+
 }
 
 h2 {
