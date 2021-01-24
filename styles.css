@@ -1,5 +1,6 @@
 p {
     font-family: sans-serif;
+    color: black;
     align-self: center;
     align-content: center;
     align-items: center;
@@ -28,4 +29,8 @@ h2 {
 
 .mybox {
     color: bisque;
+    border-radius: 20%;
+    box-shadow: none;
+    border-color: burlywood;
+    border: 2px;
 }
